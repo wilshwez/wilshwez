@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **Signature-based Network Intrusion Detection System (NIDS)**
+- 🔭 Currently working on: **a stickman game**
 - 🎓 Studying: **Information Security & Digital Forensics**
 - 🤝 Looking to collaborate with: **Private sector cybersecurity firms**
 - 🧠 Exploring: **Face Recognition & Malware Detection Systems**
