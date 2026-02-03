@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Harzad</h1>
-<h3 align="center">🔐 DevOps & Cybersecurity Enthusiast | Aspiring Threat Hunter</h3>
+<h3 align="center">🔐 DevOps & Cybersecurity Enthusiast | Aspiring SOC analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wilshwez&label=Profile%20Views&color=0e75b6&style=flat" alt="wilshwez" />
@@ -19,7 +19,7 @@
 - 🤝 Looking to collaborate with: **Private sector cybersecurity firms**
 - 🧠 Exploring: **Face Recognition & Malware Detection Systems**
 - 🛠️ Projects: Coming soon... _**[Under Construction 🚧]**_
-- 📫 Reach me at: **wkiala557@gmail.com**
+- 📫 Reach me at: **wilsonkiala24@gmail.com**
 
 ---
 
@@ -71,6 +71,6 @@
 <!-- Add your actual social media links if available -->
 <p align="left">
   <a href="mailto:wkiala557@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/wilson-kiala-aa0381370/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/wilshwez Gaming rt"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
