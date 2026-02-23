@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Harzad</h1>
+<h1 align="center">Salutations👋, I'm Harzad</h1>
 <h3 align="center">🔐 DevOps & Cybersecurity Enthusiast | Aspiring SOC analyst</h3>
 
 <p align="center">
