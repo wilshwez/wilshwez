@@ -52,7 +52,7 @@ An open-source Python-based security scanner for Windows, macOS, and Linux:
 
 ---
 
-### 🔌 API Security Analyzer & Endpoint Discovery Tool *(In Development)*
+### 🔌 API Security Analyzer & Endpoint Discovery Tool *(Completed)*
 A security tool designed to identify and analyze web API attack surfaces:
 - Discovers hidden REST, SOAP, and GraphQL endpoints through intelligent fuzzing
 - Analyzes API responses for vulnerabilities including IDOR, broken authentication, and injection
